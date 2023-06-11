@@ -1,0 +1,49 @@
+body {
+    background-color:lavender;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(135, 132, 155);
+}
+
+
+.heading_of_page a {
+    margin: 30px;
+    color:rgb(209, 214, 219);
+    letter-spacing: 4px;
+
+}
+
+header {
+    position: relative;
+    color:rgb(209, 214, 219);
+    padding: 0 40px;
+
+
+}
+
+.heading_of_page {
+    background-color: rgb(134, 144, 174);
+    width: page;
+    padding: 10px 10px;
+}
+
+.heading_of_page nav {
+    position: relative;
+    top: -10px;
+    padding: 0% 2%;
+}
+
+.icon_in_heading {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 92%;
+    top: 20px;
+    opacity: 0.6;
+}
