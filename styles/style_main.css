@@ -136,7 +136,7 @@ header {
 
 .page_text#sklist {
     position: absolute;
-    top: 56.5%;
+    top: 54%;
     left: 36.5%;
 }
 
@@ -147,6 +147,6 @@ header {
   }
 
   .page_text#projects {
-    top: 29%;
+    top: 26.7%;
     left: 67.5%;
   }
