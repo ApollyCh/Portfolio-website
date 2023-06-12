@@ -47,3 +47,105 @@ header {
     top: 20px;
     opacity: 0.6;
 }
+
+#ways {
+    color: rgb(105, 113, 136);
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    left: 2%;
+    top:  20%;
+    font-size: 30px;
+    
+}
+
+#useful_links {
+    color: rgb(105, 113, 136);
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    top:  20%;
+    left: 60%;
+    font-size: 30px;
+
+}
+
+.heading_text {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(105, 113, 136);
+    position: absolute;
+    font-size: 23px;
+}
+
+.page_text {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(105, 113, 136);
+    position: absolute;
+    font-size: 20px;
+
+}
+
+.page_text#text1 {
+    display: flex;
+    top: 27%;
+    left: 3%;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.page_text#email {
+    top: 41%;
+    left: 4.3%;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    /* opacity: 0.4; */
+    background-color: rgb(112, 120, 147);
+  }
+  
+  /* Set a specific color for each brand */
+  
+  .fa-pinterest {
+    background: #b54c4c;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #91396f;
+    color: white;
+  }
+
+  .fa-github {
+    background: #322f2f;
+    color: white;
+  }
+  .fa-telegram {
+    background: #378eab ;
+    color: white;
+  }
+
+  .fa-mail-forward {
+    position: absolute;
+    top: 41.5%;
+    left: 21%;
+    color: dimgrey;
+  }
+
+  .links {
+    position: absolute;
+    top: 220px;
+    left: 60%;
+    font-size: 30px;
+  }
+
+
