@@ -1,0 +1,409 @@
+body {
+    background-color:#ffeed9;
+}
+
+.first_part {
+
+    width: 100%;
+    height: 540px;
+    background-color: #ffeed9;
+}
+
+nav {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+.navigation {
+    width: 100px;
+    color: #403930;
+    font-family: 'Work Sans', sans-serif;
+    border: 0;
+    background-color:#ffeed9;
+}
+
+
+#h{
+    width: 179px;
+    height: 60px;
+    background-color: #FFDDBF;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top: 130px;
+
+}
+h1 {
+    position:absolute;
+}
+
+#hello {
+    
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    position: relative;
+    top: 14px;
+    font-size: 20px;
+
+}
+h1 {
+    font-family: 'Eczar', serif;
+    color: #403930;
+    position: absolute;
+    font-size: 64px;
+}
+
+h1#n1 {
+    top: 150px;
+}
+
+h1#n2 {
+    top: 220px;
+}
+
+h1#n3 {
+    top: 290px;
+}
+
+#but1 {
+    width: 270px;
+    height: 84px;
+    border-radius: 16px;
+    background-color: #4E5E80;
+    border: 0;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 450px;
+}
+
+#but2 {
+    width: 270px;
+    height: 84px;
+    border-radius: 16px;
+    background-color: white;
+    border: 40px 40px 40px 40px;
+    border-color: #4E5E80;
+    outline: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    color:#4E5E80;
+    position: absolute;
+    top: 450px;
+    left: 300px;
+}
+
+img#first {
+    position: absolute;
+    top: 100px;
+    left: 750px; 
+    width: 424px;
+    height: 524px;
+}
+
+.meeting {
+    position: relative;
+    left: 100px;
+    width: 800px;
+}
+
+.recent_work {
+    background-color: rgb(255, 221, 191);
+    opacity: 100%;
+    width: 100%;
+    height: 1100px;
+    position: relative;
+    top: 563px;
+}
+
+h2 {
+    font-family: 'Eczar', serif;
+    font-size: 40px;
+    color: #403930;
+}
+
+h2#tech {
+    position: absolute;
+    top: 20px;
+    left: 10%;
+}
+
+.Skills {
+    background-color: white;
+    color: #403930;
+    width: 1142px;
+    height: 400px;
+    opacity: 100%;
+    position: relative;
+    display: flex;
+    border-radius: 24px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 32px;
+    color: #403930;
+}
+
+h3#sk {
+    position: absolute;
+    top: 14%;
+    left: 7%;
+}
+
+p {
+    font-family: 'Eczar', serif;
+    font-size: 24px;
+    color: #403930;
+}
+
+p#info_1 {
+    position: absolute;
+    top: 28%;
+    left: 7%;
+    width: 404px;
+    height: 108px;
+}
+
+p#info_2 {
+    position: absolute;
+    top: 28%;
+    left: 7%;
+    width: 990px;
+    height: 108px;
+}
+
+#python_logo {
+    opacity: 80%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 60%;
+    top: 5%;
+}
+
+#java_logo {
+    opacity: 80%;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    left: 75%;
+    top: 25%;
+}
+
+#html_logo {
+    opacity: 80%;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    left: 55%;
+    top: 60%;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 12%;
+}
+
+.aboutMePart {
+    opacity: 100%;
+    width: 100%;
+    height: 940px;
+    position: relative;
+    top: 85%;
+    background-color:#ffeed9;
+    flex-direction: row;
+}
+
+#heading3 {
+    display: flex;
+    justify-content: center;
+}
+
+#elem {
+    width: 450px;
+    height: 300px;
+    background-color: #fce4d0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 20%;
+    border-radius: 16px;
+    margin: 20px;
+}
+
+#music {
+    border:none;
+    width:400px;
+    height:180px;
+    width:400px;
+    height:180px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+}
+
+#cited {
+    font-size: 14px;
+}
+
+#meme {
+    width: 250px;
+    height: 200px;
+    margin-top: -20px;
+}
+
+#he3 {
+    margin-top: -1px;
+}
+
+.contact1 {
+    opacity:  100%;
+    background-color: #FFDDBF;
+    position: relative;
+    width: 100%;
+    height: 680px;
+}
+
+#little_bit_ab_me {
+    position: relative;
+    top: 20%;
+}
+
+#text1 {
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 460px;
+}
+
+#but3 {
+    width: 270px;
+    height: 84px;
+    border-radius: 16px;
+    background-color: white;
+    border: 40px 40px 40px 40px;
+    border-color: #4E5E80;
+    outline: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    color:#4E5E80;
+    margin-top: 2%;
+}
+
+#info {
+    position: relative;
+    top: 25%;
+    margin-left: 20%;
+}
+
+img#second {
+    width: 420px;
+    height: 524px;
+    position: absolute;
+    top: 10%;
+    left: 55%;
+}
+
+#he1 {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+.end {
+    background-color: #ffeed9;
+    opacity: 100%;
+    width: 100%;
+    height: 1100px;
+    position: relative;
+    margin-top: -90px;
+}
+
+#n4 {
+    width: 892px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+#but4 {
+    width: 270px;
+    height: 84px;
+    border-radius: 16px;
+    background-color: white;
+    border: 40px 40px 40px 40px;
+    border-color: #4E5E80;
+    outline: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    color:#4E5E80;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+#icons {
+    width: 65px;;
+    height: 50px;
+    background-color:#ffeed9;
+    border: 0;
+    opacity: 80%;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80%;
+}
+
+#inst {
+    width: 50px;
+    height: 50px;
+}
+
+#inst:hover {
+    opacity: 70%;
+}
+
+
+#pint {
+    width: 50px;
+    height: 50px;
+}
+
+#pint:hover {
+    opacity: 70%;
+}
+
+#git {
+    width: 50px;
+    height: 50px;
+}
+
+#git:hover {
+    opacity: 70%;
+}
+
+#tel {
+    width: 50px;
+    height: 50px;
+}
+
+#tel:hover {
+    opacity: 70%;
+}
+
+button:hover {
+    opacity: 70%;
+}
